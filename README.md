@@ -1,2 +1,2 @@
 # Pandas
-#Experimenting with Pandas Library
+#Experiment with kaggle dataset to use for AWS RDS, MySQL and Pandas
